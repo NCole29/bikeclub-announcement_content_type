@@ -26,6 +26,6 @@
         "bikeclub/bikeclub-text_field_storage": "^1.0",		
 		"drupal/field_group": "^3.0",
 		"drupal/node_revision_delete": "^2.0@beta",
-		"drupal/scheduler": "^1.0",
+		"drupal/scheduler": "^1.0"
     }
 }
