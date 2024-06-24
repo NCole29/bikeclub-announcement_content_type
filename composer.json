@@ -11,7 +11,19 @@
             "role": "Maintainer"
         }
     ],
+    "repositories": {
+        "bikeclub-contact_forms": {
+            "type": "git",
+            "url": "https://github.com/NCole29/bikeclub-contact_forms"
+        },
+        "bikeclub-text_field_storage": {
+            "type": "git",
+            "url": "https://github.com/NCole29/bikeclub-text_field_storage"
+        },
+	},
     "require": {
+        "bikeclub/bikeclub-contact_forms": "^1.0",
+        "bikeclub/bikeclub-text_field_storage": "^1.0",		
 		"drupal/field_group": "^3.0",
 		"drupal/node_revision_delete": "^2.0@beta",
 		"drupal/scheduler": "^1.0",
