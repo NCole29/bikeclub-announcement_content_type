@@ -19,7 +19,7 @@
         "bikeclub-text_field_storage": {
             "type": "git",
             "url": "https://github.com/NCole29/bikeclub-text_field_storage"
-        },
+        }
 	},
     "require": {
         "bikeclub/bikeclub-contact_forms": "^1.0",
