@@ -4,7 +4,7 @@
 
 Installs the Announcement content type, fields, form, and display.
  
-## Contributed Modules Included in the Recipe
+### Contributed Modules Included in the Recipe
 
 Module 				  | Description
 ----------------------|------------
