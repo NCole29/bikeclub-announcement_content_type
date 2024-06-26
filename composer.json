@@ -1,6 +1,6 @@
 {
     "name": "bikeclub/bikeclub-announcement_content_type",
-    "description": "Installs Announcement content type for Bike Club website.",
+    "description": "Installs Announcement content type.",
     "keywords": ["recipe", "Drupal standard install"],
     "type": "drupal-recipe",
     "license": "GPL-2.0-or-later",
@@ -24,8 +24,8 @@
     "require": {
         "bikeclub/bikeclub-contact_forms": "^1.0",
         "bikeclub/bikeclub-text_field_storage": "^1.0",		
-	"drupal/field_group": "^3.0",
-	"drupal/node_revision_delete": "^2.0@beta",
-	"drupal/scheduler": "^1.0"
+		"drupal/field_group": "^3.0",
+		"drupal/node_revision_delete": "^2.0@beta",
+		"drupal/scheduler": "^1.0"
     }
 }
